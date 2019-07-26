@@ -1,4 +1,6 @@
 # Apache Spark
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyujiarao%2Fspark.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyujiarao%2Fspark?ref=badge_shield)
+
 
 Spark is a fast and general cluster computing system for Big Data. It provides
 high-level APIs in Scala, Java, Python, and R, and an optimized engine that
@@ -103,3 +105,7 @@ in the online documentation for an overview on how to configure Spark.
 
 Please review the [Contribution to Spark guide](http://spark.apache.org/contributing.html)
 for information on how to get started contributing to the project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fyujiarao%2Fspark.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fyujiarao%2Fspark?ref=badge_large)
